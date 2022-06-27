@@ -17,8 +17,10 @@ Ph. D. in Art & Technology</br>
 
 /
 
-2013 VooDoo projection mapping exhibition</br>
-2013 JeonJu photo festival exhibition</br>
+2013 VooDoo projection mapping exhibition
+
+2013 JeonJu photo festival exhibition
+
 2013 Triangle interactive media art exhibition</br>
 2013 Graduation exhibition</br>
 2016 HCI open projection art festival exhibition</br>
