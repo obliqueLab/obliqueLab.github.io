@@ -4,14 +4,14 @@ title: About
 permalink: /about/
 ---
 
-Young ho Kim</br>
+Young ho Kim
 
 /
 
-Seoul Art high school</br>
-Bachelor of Fine Art in Visual Design</br>
-Master of Science in Art & Technology</br>
-Ph. D. in Art & Technology</br>
+Seoul Art high school
+Bachelor of Fine Art in Visual Design
+Master of Science in Art & Technology
+Ph. D. in Art & Technology
 
 /
 
