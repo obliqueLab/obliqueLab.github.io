@@ -1,6 +1,6 @@
 # oblique Lab-blog
 
-## Origin Theme
+## Thanks for Develop
 
 https://github.com/andrewhwanpark/brutalist-blog.git
 
