@@ -8,7 +8,7 @@ permalink: /portfolio/
 
 These are screencaps from Chungking Express
 
-({{site.baseurl}}/assets/images/sample_portfolio/1.jpg)
+![sample image](({{site.baseurl}}/assets/images/sample_portfolio/1.jpg)
 ![Chungking Express Screencap 2]({{site.baseurl}}/assets/images/sample_portfolio/2.jpg)
 ![Chungking Express Screencap 3]({{site.baseurl}}/assets/images/sample_portfolio/3.jpg)
 ![Chungking Express Screencap 4]({{site.baseurl}}/assets/images/sample_portfolio/4.jpg)
