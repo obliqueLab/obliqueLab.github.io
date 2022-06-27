@@ -3,4 +3,5 @@
 - name: About
   link: /about/
 - name: Portfolio
-  link: /portfolio/
+  link: http://obliquelab.com/
+  #link: /portfolio/
