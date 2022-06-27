@@ -1,8 +1,9 @@
 # oblique Lab-blog
 
-## Introduction
+## Used
 
 https://github.com/andrewhwanpark/brutalist-blog.git
+
 https://andrewhwanpark.github.io/
 
 ## License
