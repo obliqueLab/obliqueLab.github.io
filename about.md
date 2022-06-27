@@ -4,8 +4,6 @@ title: About
 permalink: /about/
 ---
 
-### About
-
 Young ho Kim</br>
 
 /
@@ -82,8 +80,3 @@ ISEA2019의 디지털 미디어 전시기획과 인공지능, 데이터 작품 �
 A Study NPR Rendering with Spiral Drawing Style : Focused on the SSD(Single line Spiral Drawing)</br>
 재설정 가능한 모션 캡쳐를 위한 부분 동작 저작</br>
 SIGGRAPH ASIA 2020 Art Gallery의 온라인 전시 사례 연구</br>
-
-
-### Contact me
-
-[focofu@naver.com](mailto:email@domain.com)
