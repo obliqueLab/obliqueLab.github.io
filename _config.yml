@@ -21,7 +21,7 @@ tagline: Minimalistic Jekyll theme that automatically supports dark and light mo
 description: Minimalistic Jekyll theme that automatically supports dark and light modes for blogs
 
 # The full URL to your site. Note: site.github.url will be used by default.
-url: https://obliquelab.github.io/
+url:
 
 # If you're hosting your site at a Project repository on GitHub pages
 # (http://yourusername.github.io/repository-name)
@@ -30,7 +30,7 @@ url: https://obliquelab.github.io/
 baseurl: "https://github.com/obliqueLab/obliqueLab.github.io.git"
 
 # global author information
-author: obliquelab
+author: Young Ho Kim
 
 # URL to a site-wide logo (e.g., /assets/your-company-logo.png)
 logo: /assets/images/default_logo.png
@@ -44,7 +44,7 @@ permalink: /:year/:month/:day/:title/
 footer-links:
   email: focofu@naver.com
   facebook:
-  github:
+  github: obliquelab
   instagram: oblique.lab
   linkedin:
   rss: # just type anything here for a working RSS icon
