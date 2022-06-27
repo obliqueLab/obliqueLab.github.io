@@ -15,7 +15,7 @@ lightavatar: /assets/images/default_logo.png
 darkavatar: /assets/images/dark_logo.png
 
 # A short description (e.g., A blog dedicated to reviewing cat gifs), used as part of the title tag like Ben's Awesome Site | A blog dedicated to reviewing cat gifs instead of Ben's Awesome Site | Long description about a blog dedicated to reviewing cat gifs that would be used when page.title is not defined.
-tagline: Research Notes for Art & Design & Technology
+tagline: Research Notes
 
 # A longer description used for the description meta tag. Also used as fallback for pages that don't provide their own description, and also as part of the page's title tag if neither page.title nor site.tagline has been defined.
 description: Research Notes for Art & Design & Technology
