@@ -1,6 +1,6 @@
 # oblique Lab-blog
 
-## Thanks for Develop
+## Thanks for develop
 
 https://github.com/andrewhwanpark/brutalist-blog.git
 
