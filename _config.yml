@@ -30,7 +30,7 @@ url: https://obliquelab.github.io/
 baseurl: "https://github.com/obliqueLab/obliqueLab.github.io.git"
 
 # global author information
-author: oblique lab
+author: obliquelab
 
 # URL to a site-wide logo (e.g., /assets/your-company-logo.png)
 logo: /assets/images/default_logo.png
@@ -44,11 +44,11 @@ permalink: /:year/:month/:day/:title/
 footer-links:
   email: focofu@naver.com
   facebook:
-  github: obliqueLab
+  github:
   instagram: oblique.lab
-  #linkedin: andrewhwanpark
+  linkedin:
   rss: # just type anything here for a working RSS icon
-  #twitter:
+  twitter:
 
 plugins:
   - jekyll-seo-tag
