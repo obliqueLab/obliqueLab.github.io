@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Samples
+title: Samples-1
 ---
 
 논문을 [^1]
