@@ -1,22 +1,17 @@
 ---
 layout: post
-title: Samples-1
+title: 공간 차원에 관한 시각적 패턴 연구
 ---
 
-논문을 [^1]
+### Title
+KOR : 공간 차원에 관한 시각적 패턴 연구 -황금비, 피보나치 수열, 프랙털 이론을 중심으로 [^1]
 
-**매일** 하루 한편
-
-엔터 테스트
-
-# 1. Title
-
-## 2. Sub Title
+ENG : Study on Visual Patterns about Spatial Dimensions - Centered on the Golden Ratio, Fibonacci Sequence, and Fractal Theory
 
 
-### 3. SubSub Title
+### 
 
 
 
-## Reference
-[^1]: 레퍼런스 정리
+### Reference
+[^1]: Kim, Min-Suk, Kim, Kai-Chun.(2014).Study on Visual Patterns about Spatial Dimensions - Centered on the Golden Ratio, Fibonacci Sequence, and Fractal Theory -.Journal of the Korean Institute of Interior Design,23(1),88-95.
