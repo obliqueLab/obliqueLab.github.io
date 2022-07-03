@@ -10,7 +10,9 @@ ENG : A Preliminary Study on Concept and Types of Metaverse : Focusing on the Po
 
 
 ### Study
-윤현정, 이진, 윤혜영(2021)은 메타버스를 가능세계 이론을 통해 유형화를 시도했다.  [^1]
+윤현정, 이진, 윤혜영(2021)은 메타버스를 가능세계 이론을 통해 유형화를 시도했다. 
+또한 연구를 통해 메타버스의 지속 가능한 시사점을 제시하고, 미래 가능성을 논의할 수 있는 계기를 마련했다. [^1]
+
 1. 가능세계 이론
 - 실제세계 (Actual World)
 - 텍스트 실제세계 (Text Actual World)
