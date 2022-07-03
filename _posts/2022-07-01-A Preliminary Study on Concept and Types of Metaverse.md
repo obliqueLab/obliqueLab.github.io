@@ -16,6 +16,7 @@ ENG : A Preliminary Study on Concept and Types of Metaverse : Focusing on the Po
 - 텍스트 실제세계 (Text Actual World)
 - 텍스트 지시세계 (Text Reference World)
 
+
 2. 메타버스 유형
 - 독립형
 - 액자형
