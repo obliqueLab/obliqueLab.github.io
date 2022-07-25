@@ -1,10 +1,8 @@
 ---
 layout: page
 title: Sequence
-permalink: /Sequence/
+permalink: /sequence/
 ---
-
-© 2022 Young Ho Kim. All Rights Reserved.
 
 ![Font Sculpture 1]({{site.baseurl}}/assets/images/sequence/IMG_0292.jpg)
 ![Font Sculpture 2]({{site.baseurl}}/assets/images/sequence/IMG_0721.jpg)
