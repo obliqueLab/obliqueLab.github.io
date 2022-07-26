@@ -11,5 +11,6 @@ permalink: /sequence/
 ![Font Sculpture 2]({{site.baseurl}}/assets/images/sequence/IMG_9428.jpg)
 ![Font Sculpture 2]({{site.baseurl}}/assets/images/sequence/IMG_9433.jpg)
 ![Font Sculpture 2]({{site.baseurl}}/assets/images/sequence/IMG_9436.jpg)
+![Font Sculpture 2]({{site.baseurl}}/assets/images/sequence/IMG_001.jpg)
 
 © 2022 Young Ho Kim. All Rights Reserved.

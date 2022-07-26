@@ -6,7 +6,6 @@ title: A Generative Design - A Paradigm for Design Research.
 ### Title
 A Generative Design: A Paradigm for Design Research.
 
-
 ### Study
 
 
