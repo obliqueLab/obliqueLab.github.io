@@ -23,5 +23,6 @@ permalink: /sequence/
 ![Drink]({{site.baseurl}}/assets/images/sequence/IMG_0726_(10).jpg)
 ![Drink]({{site.baseurl}}/assets/images/sequence/IMG_0726_(11).jpg)
 ![Drink]({{site.baseurl}}/assets/images/sequence/IMG_0726_(12).jpg)
+![Drink]({{site.baseurl}}/assets/images/sequence/IMG_0726_(13).jpg)
 
 © 2022 Young Ho Kim. All Rights Reserved.
